@@ -1,0 +1,1 @@
+2018/07/09 20:35:18 [error] 6468#0: *1 open() "/home/yal/box/web/public/index1.html" failed (13: Permission denied), client: 127.0.0.1, server: , request: "GET /index1.html HTTP/1.1", host: "localhost"

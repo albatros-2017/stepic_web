@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Jul/2018:20:35:18 +0300] "GET /index1.html HTTP/1.1" 403 177 "-" "curl/7.35.0"
+127.0.0.1 - - [09/Jul/2018:20:39:21 +0300] "GET /Ris_1.jpg HTTP/1.1" 200 397857 "-" "curl/7.35.0"
+127.0.0.1 - - [09/Jul/2018:20:40:09 +0300] "GET /index1.html HTTP/1.1" 200 152 "-" "curl/7.35.0"
+127.0.0.1 - - [09/Jul/2018:20:40:24 +0300] "GET /Ris_1.jpg HTTP/1.1" 200 397857 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
